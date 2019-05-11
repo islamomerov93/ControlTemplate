@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ControlTemplate"
         mc:Ignorable="d"
-        Title="MainWindow" Height="150" Width="450">
+        Title="Control Templates" Height="150" Width="450" Icon="Images/main.png" WindowStartupLocation="CenterOwner" Background="LightBlue">
     <Grid Background="WhiteSmoke">
         <Grid.RowDefinitions>
             <RowDefinition/>
